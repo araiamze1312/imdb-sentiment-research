@@ -6,7 +6,7 @@
 
 **Authors:** Amze Arailym; Bayan Valikhanova
 
-**GitHub repository:** `https://github.com/YOUR_USERNAME/imdb-sentiment-research` (replace after publishing)
+**GitHub repository:** `https://github.com/araiamze1312/imdb-sentiment-research`
 
 **Research question:** How do model architecture and training set size affect sentiment classification quality and computational cost on the IMDB dataset?
 

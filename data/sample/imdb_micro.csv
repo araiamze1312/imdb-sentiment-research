@@ -1,0 +1,11 @@
+text,label,split
+"I loved this film and its brilliant acting",1,train
+"A wonderful story with great characters",1,train
+"Excellent direction and an enjoyable ending",1,train
+"This movie was boring and very disappointing",0,train
+"Terrible acting and an awful plot",0,train
+"I hated this film and its bad ending",0,train
+"The film had great acting and a wonderful story",1,test
+"I loved the excellent characters",1,test
+"The plot was awful and boring",0,test
+"Terrible film with a disappointing ending",0,test

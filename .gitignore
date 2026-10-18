@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+results/*.json
+*.log
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.pkl
+.env
+.DS_Store
+Thumbs.db
